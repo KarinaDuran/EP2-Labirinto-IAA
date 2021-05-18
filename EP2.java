@@ -1,8 +1,5 @@
 /**************************************************/
-/* Karina Duran Munhos							  */
-/*11295911                                        */
-/*Introducao a Analise de Algoritmos - 2020 	  */
-/*Turma 04										  */
+/* Karina Duran Munhos				  */
 /**************************************************/
 import java.io.*;
 import java.util.*;
